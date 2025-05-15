@@ -1,4 +1,4 @@
-# BobForSQA Landing Project
+# BobForsqa Landing Project
 
 ## Overview
 
