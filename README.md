@@ -2,7 +2,7 @@
 
 ## Overview
 
-BobForSQA Landing is a modern, accessible, and secure Next.js web application designed for high performance and maintainability. It features a terminal-inspired UI, robust testing, and best practices for accessibility, security, and developer experience.
+BobForsqa Landing is a modern, accessible, and secure Next.js web application designed for high performance and maintainability. It features a terminal-inspired UI, robust testing, and best practices for accessibility, security, and developer experience.
 
 ---
 
